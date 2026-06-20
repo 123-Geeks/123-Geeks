@@ -1,3 +1,9 @@
+# Hi 👋, I'm Yosra Bghouri
+
+### Software Engineer | Full-Stack Developer | Angular • .NET • AWS • DevOps
+
+Passionate about software development, cloud technologies, and digital transformation.
+
 ## Hi there 👋
 
 <!--
