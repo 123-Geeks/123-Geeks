@@ -1,6 +1,6 @@
-                                                          # Hi 👋, I'm Yosra Bghouri
+<h1 align="center"> Hi 👋, I'm Yosra Bghouri</h1>
 
-### Software Engineer | Full-Stack Developer | Scrum Master
+<h3 align="center">Software Engineer | Full-Stack Developer | Scrum Master</h3>
 
 🌱 I'm currently strengthening my expertise in .NET, Angular, Cloud Technologies and Software Architecture.
 
