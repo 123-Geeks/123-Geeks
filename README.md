@@ -33,10 +33,11 @@
 - JWT & OAuth2
 
 📊 Interested in:
-- Business Intelligence
-- Data Analytics
-- Power BI
-- Project Management
+- Cloud Computing (AWS & Azure)
+- DevOps & CI/CD
+- Full-Stack Development (.NET & Angular)
+- Database Management (SQL Server)
+- Software Architecture
 
 🧩 Agile enthusiast with experience as Scrum Master and Project Coordinator.
 
